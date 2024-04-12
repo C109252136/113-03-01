@@ -13,7 +13,7 @@
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | C109252136@nkust.edu.tw          |
 | 選修             | 智慧城市導論
->#### 2.智慧消防
+>#### 智慧消防
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cIULsEsSR38" target="_blank"><img src="http://img.youtube.com/vi/cIULsEsSR38/0.jpg" 
 alt="智慧消防" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
