@@ -12,7 +12,12 @@
 | 姓名             | 楊翊丞                  |
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | C109252136@nkust.edu.tw          |
-| 選修             | 智慧城市導論  
+| 選修             | 智慧城市導論
+>#### 2.智慧消防
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cIULsEsSR38" target="_blank"><img src="http://img.youtube.com/vi/cIULsEsSR38/0.jpg" 
+alt="智慧消防" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
 
 ![image](https://github.com/C109252136/113-03-01/assets/161834924/922472c4-8dc9-441c-8b7d-620e4b2d10c3)
 
