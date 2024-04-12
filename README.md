@@ -4,7 +4,7 @@
 | 姓名             | 楊翊丞                  |
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | C109252136@nkust.edu.tw          |
-| 選修             | 智慧城市導論  
+| 選修             | 智慧城市導論  |
 ```
 以上語法呈現結果如下
 |      履歷        |<img src="https://p5.itc.cn/images01/20210716/0aa08663065f4ac8a2194d5721920422.jpeg" width=100 height=100/>|
@@ -12,7 +12,9 @@
 | 姓名             | 楊翊丞                  |
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | C109252136@nkust.edu.tw          |
-| 選修             | 智慧城市導論
+| 選修             | 智慧城市導論      |
+| 興趣             | 看小說 聽音樂  |
+
 >#### 智慧消防
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cIULsEsSR38" target="_blank"><img src="http://img.youtube.com/vi/cIULsEsSR38/0.jpg" 
 alt="智慧消防" width="400" height="250" border="10" /></a>
