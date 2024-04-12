@@ -17,7 +17,7 @@
 
 >#### 天王星大樓直播
 <a href="[http://www.youtube.com/watch?feature=player_embedded&v=cIULsEsSR38](https://www.youtube.com/watch?v=i8hZwbnrYw8)" target="_blank"><img src="[http://img.youtube.com/vi/cIULsEsSR38/0](https://www.youtube.com/watch?v=i8hZwbnrYw8).jpg" 
-alt="天王星大樓" width="400" height="250" border="10" /></a>
+alt="天王星大樓直播" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
 
