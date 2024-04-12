@@ -13,4 +13,5 @@
 | 電子郵件         | C109252136@nkust.edu.tw          |
 | 選修             | 智慧城市導論  
 
-https://github.com/C109252136/113-03-01/blob/main/README.md
+![image](https://github.com/C109252136/113-03-01/assets/161834924/922472c4-8dc9-441c-8b7d-620e4b2d10c3)
+
